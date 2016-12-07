@@ -14,6 +14,7 @@ using System.Web.Http;
 using EnglishSchool.Web.Infrastructure.Core;
 using EnglishSchool.Service;
 using EnglishSchool.Common.Exceptions;
+using EngLishSchool.Service;
 
 namespace EnglishSchool.Web.Api
 {
@@ -23,15 +24,21 @@ namespace EnglishSchool.Web.Api
     public class ApplicationUserController : ApiControllerBase
     {
         private ApplicationUserManager _userManager;
+        private ITypeUserService _typeUserService;
         private IApplicationRoleService _appRoleService;
         public ApplicationUserController(
-          IApplicationRoleService appRoleService,
-            ApplicationUserManager userManager)
-           
+            ITypeUserService typeUserService,
+            IApplicationRoleService appRoleService,
+            ApplicationUserManager userManager,
+            IErrorService errorService)
+            : base(errorService)
+
         {
             _appRoleService = appRoleService;
+            _typeUserService = typeUserService;
             _userManager = userManager;
         }
+
         [Route("getlistpaging")]
         [HttpGet]
         [Authorize(Roles = "ViewUser")]
@@ -58,29 +65,6 @@ namespace EnglishSchool.Web.Api
             });
         }
 
-        [Route("detail/{id}")]
-        [HttpGet]
-        [Authorize(Roles = "ViewUser")]
-        public HttpResponseMessage Details(HttpRequestMessage request, string id)
-        {
-            if (string.IsNullOrEmpty(id))
-            {
-
-                return request.CreateErrorResponse(HttpStatusCode.BadRequest, nameof(id) + " không có giá trị.");
-            }
-            var user = _userManager.FindByIdAsync(id);
-            if (user == null)
-            {
-                return request.CreateErrorResponse(HttpStatusCode.NoContent, "Không có dữ liệu");
-            }
-            else
-            {
-                var applicationUserViewModel = Mapper.Map<ApplicationUser, ApplicationUserViewModel>(user.Result);
-     return request.CreateResponse(HttpStatusCode.OK, applicationUserViewModel);
-            }
-        
-        }
-
         [HttpPost]
         [Route("add")]
         [Authorize(Roles = "AddUser")]
@@ -96,26 +80,14 @@ namespace EnglishSchool.Web.Api
                     var result = await _userManager.CreateAsync(newAppUser, applicationUserViewModel.Password);
                     if (result.Succeeded)
                     {
-                        var listAppUserRole = new List<ApplicationUserRole>();
-                        foreach (var role in applicationUserViewModel.Roles)
+                        //add role to user
+                        var listRole = _appRoleService.GetAllrole();
+                        foreach (var role in listRole)
                         {
-                            listAppUserRole.Add(new ApplicationUserRole()
-                            {
-                               RoleId = role.Id,
-                                UserId = newAppUser.Id
-                            });
-                            //add role to user
-                            var listRole = _appRoleService.GetAllrole();
-                            foreach (var approle in listRole)
-                            {
-                                await _userManager.RemoveFromRoleAsync(newAppUser.Id, approle.Name);
-                                await _userManager.AddToRoleAsync(newAppUser.Id, approle.Name);
-                            }
+                            await _userManager.RemoveFromRoleAsync(newAppUser.Id, role.Name);
+                            await _userManager.AddToRoleAsync(newAppUser.Id, role.Name);
                         }
-                       
-
                         return request.CreateResponse(HttpStatusCode.OK, applicationUserViewModel);
-
                     }
                     else
                         return request.CreateErrorResponse(HttpStatusCode.BadRequest, string.Join(",", result.Errors));
@@ -133,21 +105,6 @@ namespace EnglishSchool.Web.Api
             {
                 return request.CreateErrorResponse(HttpStatusCode.BadRequest, ModelState);
             }
-        }
-
-     
-
-        [HttpDelete]
-        [Route("delete")]
-        [Authorize(Roles = "DeleteUser")]
-        public async Task<HttpResponseMessage> Delete(HttpRequestMessage request, string id)
-        {
-            var appUser = await _userManager.FindByIdAsync(id);
-            var result = await _userManager.DeleteAsync(appUser);
-            if (result.Succeeded)
-                return request.CreateResponse(HttpStatusCode.OK, id);
-            else
-                return request.CreateErrorResponse(HttpStatusCode.OK, string.Join(",", result.Errors));
         }
 
     }

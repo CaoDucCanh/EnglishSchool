@@ -20,10 +20,7 @@ namespace EnglishSchool.Service
 
         ApplicationRole Add(ApplicationRole appRole);
 
-
-
         void Delete(string id);
-
 
         void Save();
     }
@@ -38,21 +35,22 @@ namespace EnglishSchool.Service
             IApplicationRoleRepository appRoleRepository)
         {
             this._appRoleRepository = appRoleRepository;
-
             this._unitOfWork = unitOfWork;
         }
 
         public ApplicationRole Add(ApplicationRole appRole)
         {
-            if (_appRoleRepository.CheckContains(x => x.Name == appRole.Name))
-                throw new NameDuplicatedException("Tên không được trùng");
-            return _appRoleRepository.Add(appRole);
+            throw new NotImplementedException();
         }
-
 
         public void Delete(string id)
         {
-            _appRoleRepository.DeleteMulti(x => x.Id == id);
+            throw new NotImplementedException();
+        }
+
+        public IEnumerable<ApplicationRole> GetAll(int page, int pageSize, out int totalRow, string filter)
+        {
+            throw new NotImplementedException();
         }
 
         public IEnumerable<ApplicationRole> GetAllrole()
@@ -60,27 +58,14 @@ namespace EnglishSchool.Service
             return _appRoleRepository.GetAll();
         }
 
-        public IEnumerable<ApplicationRole> GetAll(int page, int pageSize, out int totalRow, string filter = null)
-        {
-            var query = _appRoleRepository.GetAll();
-            if (!string.IsNullOrEmpty(filter))
-                query = query.Where(x => x.Name.Contains(filter));
-
-            totalRow = query.Count();
-            return query.OrderBy(x => x.Name).Skip(page * pageSize).Take(pageSize);
-        }
-
         public ApplicationRole GetDetail(string id)
         {
-            return _appRoleRepository.GetSingleByCondition(x => x.Id == id);
+            throw new NotImplementedException();
         }
 
         public void Save()
         {
-            _unitOfWork.Commit();
+            throw new NotImplementedException();
         }
-
-
-
     }
 }

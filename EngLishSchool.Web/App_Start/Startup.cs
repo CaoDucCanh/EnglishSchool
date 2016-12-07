@@ -8,8 +8,12 @@ using EngLishSchool.Service;
 using Microsoft.Owin;
 using Owin;
 using System.Reflection;
+using System.Web;
 using System.Web.Http;
 using System.Web.Mvc;
+using EngLishSchool.Model.Models;
+using Microsoft.AspNet.Identity;
+using Microsoft.Owin.Security.DataProtection;
 
 [assembly: OwinStartup(typeof(EngLishSchool.Web.App_Start.Startup))]
 
@@ -35,12 +39,12 @@ namespace EngLishSchool.Web.App_Start
 
             builder.RegisterType<EnglishSchoolDbContext>().AsSelf().InstancePerRequest();
 
-            ////Asp.net Identity
-            //builder.RegisterType<ApplicationUserStore>().As<IUserStore<ApplicationUser>>().InstancePerRequest();
-            //builder.RegisterType<ApplicationUserManager>().AsSelf().InstancePerRequest();
-            //builder.RegisterType<ApplicationSignInManager>().AsSelf().InstancePerRequest();
-            //builder.Register(c => HttpContext.Current.GetOwinContext().Authentication).InstancePerRequest();
-            //builder.Register(c => app.GetDataProtectionProvider()).InstancePerRequest();
+            //Asp.net Identity
+            builder.RegisterType<ApplicationUserStore>().As<IUserStore<ApplicationUser>>().InstancePerRequest();
+            builder.RegisterType<ApplicationUserManager>().AsSelf().InstancePerRequest();
+            builder.RegisterType<ApplicationSignInManager>().AsSelf().InstancePerRequest();
+            builder.Register(c => HttpContext.Current.GetOwinContext().Authentication).InstancePerRequest();
+            builder.Register(c => app.GetDataProtectionProvider()).InstancePerRequest();
 
             // Repositories
             builder.RegisterAssemblyTypes(typeof(ApplicationUserRepository).Assembly)

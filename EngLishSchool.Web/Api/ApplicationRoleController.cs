@@ -12,6 +12,7 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 using System.Web.Script.Serialization;
+using EngLishSchool.Service;
 
 namespace TeduShop.Web.Api
 {
@@ -20,11 +21,11 @@ namespace TeduShop.Web.Api
     public class ApplicationRoleController : ApiControllerBase
     {
         private IApplicationRoleService _appRoleService;
+        private static IErrorService errorService;
 
-        public ApplicationRoleController(
-            IApplicationRoleService appRoleService) 
+        public ApplicationRoleController(IApplicationRoleService appRoleService) : base(errorService)
         {
-            _appRoleService = appRoleService;
+            this._appRoleService = appRoleService;
         }
 
         [Route("getlistpaging")]
@@ -106,9 +107,6 @@ namespace TeduShop.Web.Api
                 return request.CreateErrorResponse(HttpStatusCode.BadRequest, ModelState);
             }
         }
-
-     
-
         [HttpDelete]
         [Route("delete")]
         public HttpResponseMessage Delete(HttpRequestMessage request, string id)

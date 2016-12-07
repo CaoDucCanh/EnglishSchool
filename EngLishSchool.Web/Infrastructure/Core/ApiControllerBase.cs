@@ -5,13 +5,20 @@ using System.Diagnostics;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
+using EngLishSchool.Service;
 
 
 namespace EnglishSchool.Web.Infrastructure.Core
 {
     public class ApiControllerBase : ApiController
     {
-   
+        private IErrorService _errorService;
+
+        public ApiControllerBase(IErrorService errorService)
+        {
+            this._errorService = errorService;
+        }
+
 
         protected HttpResponseMessage CreateHttpResponse(HttpRequestMessage requestMessage, Func<HttpResponseMessage> function)
         {
