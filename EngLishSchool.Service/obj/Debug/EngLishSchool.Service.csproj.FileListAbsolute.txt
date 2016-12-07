@@ -1,0 +1,71 @@
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Service\bin\Debug\EngLishSchool.Service.dll
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Service\bin\Debug\EngLishSchool.Service.pdb
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Service\bin\Debug\EngLishSchool.Common.dll
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Service\bin\Debug\EngLishSchool.Data.dll
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Service\bin\Debug\EngLishSchool.Model.dll
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Service\bin\Debug\EngLishSchool.Common.pdb
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Service\bin\Debug\EngLishSchool.Data.pdb
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Service\bin\Debug\EngLishSchool.Model.pdb
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Service\obj\Debug\EngLishSchool.Service.csprojResolveAssemblyReference.cache
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Service\obj\Debug\EngLishSchool.Service.dll
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Service\obj\Debug\EngLishSchool.Service.pdb
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Service\bin\Debug\EngLishSchool.Service.dll
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Service\bin\Debug\EngLishSchool.Service.pdb
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Service\bin\Debug\EngLishSchool.Common.dll
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Service\bin\Debug\EngLishSchool.Data.dll
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Service\bin\Debug\EngLishSchool.Model.dll
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Service\bin\Debug\EntityFramework.dll
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Service\bin\Debug\EngLishSchool.Common.pdb
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Service\bin\Debug\EngLishSchool.Data.pdb
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Service\bin\Debug\EngLishSchool.Model.pdb
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Service\bin\Debug\EntityFramework.xml
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Service\obj\Debug\EngLishSchool.Service.csprojResolveAssemblyReference.cache
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Service\obj\Debug\EngLishSchool.Service.dll
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Service\obj\Debug\EngLishSchool.Service.pdb
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Service\bin\Debug\EngLishSchool.Service.dll.config
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Service\bin\Debug\EntityFramework.SqlServer.dll
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Service\obj\Debug\EngLishSchool.Service.csprojResolveAssemblyReference.cache
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Service\bin\Debug\EngLishSchool.Service.dll.config
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Service\bin\Debug\EngLishSchool.Service.dll
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Service\bin\Debug\EngLishSchool.Service.pdb
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Service\bin\Debug\EngLishSchool.Common.dll
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Service\bin\Debug\EngLishSchool.Data.dll
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Service\bin\Debug\EngLishSchool.Model.dll
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Service\bin\Debug\EntityFramework.dll
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Service\bin\Debug\EngLishSchool.Common.pdb
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Service\bin\Debug\EngLishSchool.Data.pdb
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Service\bin\Debug\EngLishSchool.Model.pdb
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Service\bin\Debug\EntityFramework.xml
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Service\obj\Debug\EngLishSchool.Service.dll
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Service\obj\Debug\EngLishSchool.Service.pdb
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Service\bin\Debug\EngLishSchool.Service.dll.config
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Service\bin\Debug\EngLishSchool.Service.dll
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Service\bin\Debug\EngLishSchool.Service.pdb
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Service\bin\Debug\EngLishSchool.Common.dll
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Service\bin\Debug\EngLishSchool.Data.dll
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Service\bin\Debug\EngLishSchool.Model.dll
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Service\bin\Debug\EntityFramework.dll
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Service\bin\Debug\EngLishSchool.Common.pdb
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Service\bin\Debug\EngLishSchool.Data.pdb
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Service\bin\Debug\EngLishSchool.Model.pdb
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Service\bin\Debug\EntityFramework.xml
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Service\obj\Debug\EngLishSchool.Service.csprojResolveAssemblyReference.cache
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Service\obj\Debug\EngLishSchool.Service.dll
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Service\obj\Debug\EngLishSchool.Service.pdb

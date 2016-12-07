@@ -1,0 +1,245 @@
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Web\bin\EngLishSchool.Web.dll.config
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Web\bin\EngLishSchool.Web.dll
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Web\bin\EngLishSchool.Web.pdb
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Web\bin\Antlr3.Runtime.dll
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Web\bin\EngLishSchool.Common.dll
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Web\bin\EngLishSchool.Data.dll
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Web\bin\EngLishSchool.Model.dll
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Web\bin\EngLishSchool.Service.dll
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Web\bin\EntityFramework.dll
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Web\bin\EntityFramework.SqlServer.dll
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Web\bin\Newtonsoft.Json.dll
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Web\bin\System.Net.Http.Formatting.dll
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Web\bin\System.Web.Helpers.dll
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Web\bin\System.Web.Http.dll
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Web\bin\System.Web.Http.WebHost.dll
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Web\bin\System.Web.Mvc.dll
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Web\bin\System.Web.Optimization.dll
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Web\bin\System.Web.Razor.dll
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Web\bin\System.Web.WebPages.Deployment.dll
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Web\bin\System.Web.WebPages.dll
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Web\bin\System.Web.WebPages.Razor.dll
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Web\bin\WebGrease.dll
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Web\bin\EngLishSchool.Common.pdb
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Web\bin\EngLishSchool.Data.pdb
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Web\bin\EngLishSchool.Model.pdb
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Web\bin\EngLishSchool.Service.pdb
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Web\bin\EntityFramework.xml
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Web\bin\EntityFramework.SqlServer.xml
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Web\bin\System.Web.Helpers.xml
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Web\bin\System.Web.Mvc.xml
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Web\bin\System.Web.Optimization.xml
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Web\bin\System.Web.Razor.xml
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Web\bin\System.Web.WebPages.xml
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Web\bin\System.Web.WebPages.Deployment.xml
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Web\bin\System.Web.WebPages.Razor.xml
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Web\bin\Antlr3.Runtime.pdb
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Web\bin\Newtonsoft.Json.xml
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Web\bin\System.Net.Http.Formatting.xml
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Web\bin\System.Web.Http.xml
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Web\bin\System.Web.Http.WebHost.xml
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Web\obj\Debug\EngLishSchool.Web.csprojResolveAssemblyReference.cache
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Web\obj\Debug\EngLishSchool.Web.dll
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Web\obj\Debug\EngLishSchool.Web.pdb
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\EngLishSchool.Web.dll.config
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\EngLishSchool.Web.dll
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\EngLishSchool.Web.pdb
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\Antlr3.Runtime.dll
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\EngLishSchool.Common.dll
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\EngLishSchool.Data.dll
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\EngLishSchool.Model.dll
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\EngLishSchool.Service.dll
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\EntityFramework.dll
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\EntityFramework.SqlServer.dll
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\Newtonsoft.Json.dll
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\System.Net.Http.Formatting.dll
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\System.Web.Helpers.dll
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\System.Web.Http.dll
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\System.Web.Http.WebHost.dll
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\System.Web.Mvc.dll
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\System.Web.Optimization.dll
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\System.Web.Razor.dll
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\System.Web.WebPages.Deployment.dll
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\System.Web.WebPages.dll
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\System.Web.WebPages.Razor.dll
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\WebGrease.dll
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\EngLishSchool.Common.pdb
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\EngLishSchool.Data.pdb
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\EngLishSchool.Model.pdb
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\EngLishSchool.Service.pdb
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\EntityFramework.xml
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\EntityFramework.SqlServer.xml
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\System.Web.Helpers.xml
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\System.Web.Mvc.xml
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\System.Web.Optimization.xml
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\System.Web.Razor.xml
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\System.Web.WebPages.xml
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\System.Web.WebPages.Deployment.xml
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\System.Web.WebPages.Razor.xml
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\Antlr3.Runtime.pdb
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\Newtonsoft.Json.xml
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\System.Net.Http.Formatting.xml
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\System.Web.Http.xml
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\System.Web.Http.WebHost.xml
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\obj\Debug\EngLishSchool.Web.csprojResolveAssemblyReference.cache
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\obj\Debug\EngLishSchool.Web.dll
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\obj\Debug\EngLishSchool.Web.pdb
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\Microsoft.AspNet.Identity.Core.dll
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\Microsoft.Owin.dll
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\Microsoft.Owin.Security.Cookies.dll
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\Microsoft.Owin.Security.dll
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\Microsoft.Owin.Security.OAuth.dll
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\Owin.dll
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\Microsoft.AspNet.Identity.Core.xml
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\Microsoft.Owin.xml
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\Microsoft.Owin.Security.xml
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\Microsoft.Owin.Security.Cookies.xml
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\obj\Debug\EngLishSchool.Web.csprojResolveAssemblyReference.cache
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\EngLishSchool.Web.dll.config
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\EngLishSchool.Web.dll
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\EngLishSchool.Web.pdb
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\Antlr3.Runtime.dll
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\AutoMapper.dll
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\EngLishSchool.Common.dll
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\EngLishSchool.Data.dll
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\EngLishSchool.Model.dll
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\EngLishSchool.Service.dll
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\EntityFramework.dll
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\Microsoft.Owin.dll
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\Newtonsoft.Json.dll
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\Owin.dll
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\System.Web.Helpers.dll
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\System.Web.Http.dll
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\System.Web.Mvc.dll
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\System.Web.Optimization.dll
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\System.Web.Razor.dll
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\System.Web.WebPages.dll
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\WebGrease.dll
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\EngLishSchool.Common.pdb
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\EngLishSchool.Data.pdb
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\EngLishSchool.Model.pdb
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\EngLishSchool.Service.pdb
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\AutoMapper.xml
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\EntityFramework.xml
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\Microsoft.Owin.xml
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\System.Web.Helpers.xml
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\System.Web.Mvc.xml
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\System.Web.Optimization.xml
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\System.Web.Razor.xml
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\System.Web.WebPages.xml
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\Antlr3.Runtime.pdb
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\Newtonsoft.Json.xml
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\System.Web.Http.xml
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\obj\Debug\EngLishSchool.Web.dll
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\obj\Debug\EngLishSchool.Web.pdb
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\AutoMapper.dll
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\AutoMapper.xml
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\Autofac.dll
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\Autofac.Integration.Mvc.dll
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\Autofac.Integration.WebApi.dll
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\Autofac.xml
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\Autofac.Integration.Mvc.xml
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Web\bin\Autofac.Integration.WebApi.xml
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\Autofac.dll
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\Autofac.Integration.Mvc.dll
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\Autofac.Integration.WebApi.dll
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\Autofac.xml
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\Autofac.Integration.Mvc.xml
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Web\bin\Autofac.Integration.WebApi.xml
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\obj\Debug\EngLishSchool.Web.csprojResolveAssemblyReference.cache
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\obj\Debug\EngLishSchool.Web.dll
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\obj\Debug\EngLishSchool.Web.pdb
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\EngLishSchool.Web.dll.config
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\EngLishSchool.Web.dll
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\EngLishSchool.Web.pdb
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\Antlr3.Runtime.dll
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\Autofac.dll
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\Autofac.Integration.Mvc.dll
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\Autofac.Integration.WebApi.dll
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\AutoMapper.dll
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\EngLishSchool.Common.dll
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\EngLishSchool.Data.dll
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\EngLishSchool.Model.dll
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\EngLishSchool.Service.dll
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\EntityFramework.dll
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\Microsoft.Owin.dll
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\Newtonsoft.Json.dll
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\Owin.dll
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\System.Web.Helpers.dll
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\System.Web.Http.dll
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\System.Web.Mvc.dll
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\System.Web.Optimization.dll
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\System.Web.Razor.dll
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\System.Web.WebPages.dll
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\WebGrease.dll
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\EngLishSchool.Common.pdb
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\EngLishSchool.Data.pdb
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\EngLishSchool.Model.pdb
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\EngLishSchool.Service.pdb
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\Autofac.xml
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\Autofac.Integration.Mvc.xml
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\Autofac.Integration.WebApi.xml
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\AutoMapper.xml
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\EntityFramework.xml
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\Microsoft.Owin.xml
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\System.Web.Helpers.xml
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\System.Web.Mvc.xml
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\System.Web.Optimization.xml
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\System.Web.Razor.xml
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\System.Web.WebPages.xml
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\Antlr3.Runtime.pdb
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\Newtonsoft.Json.xml
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\System.Web.Http.xml
+C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Web\bin\System.Web.Http.WebHost.xml

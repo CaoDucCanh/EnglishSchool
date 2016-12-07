@@ -1,0 +1,15 @@
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Common\bin\Debug\EngLishSchool.Common.dll
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Common\bin\Debug\EngLishSchool.Common.pdb
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Common\obj\Debug\EngLishSchool.Common.dll
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Common\obj\Debug\EngLishSchool.Common.pdb
+E:\lap trinh web\project\EnglishShool_vs1\EnglishSchool\EngLishSchool.Common\obj\Debug\EngLishSchool.Common.csprojResolveAssemblyReference.cache
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Common\bin\Debug\EngLishSchool.Common.dll
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Common\bin\Debug\EngLishSchool.Common.pdb
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Common\obj\Debug\EngLishSchool.Common.csprojResolveAssemblyReference.cache
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Common\obj\Debug\EngLishSchool.Common.dll
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Common\obj\Debug\EngLishSchool.Common.pdb
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Common\bin\Debug\EngLishSchool.Common.dll
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Common\bin\Debug\EngLishSchool.Common.pdb
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Common\obj\Debug\EngLishSchool.Common.dll
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Common\obj\Debug\EngLishSchool.Common.pdb
+C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Common\obj\Debug\EngLishSchool.Common.csprojResolveAssemblyReference.cache
