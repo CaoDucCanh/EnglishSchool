@@ -7,9 +7,17 @@
 
     function applicationUserAddController($scope, apiService, notificationService, $location, commonService) {
         $scope.account = {
-            Groups: []
+         CreatedDate:new Date()
         }
-
+      
+        function loadTypeuser() {
+            apiService.get('api/Typeuser/getalltype', null, function (result) {
+                $scope.Typeuser = result.data;
+            }, function (){
+                    console.log('cannot get typeuser');
+                
+            });
+        }
         $scope.addAccount = addAccount;
 
         function addAccount() {
@@ -27,6 +35,6 @@
         }
 
       
-
+        loadTypeuser();
     }
 })(angular.module('englishschool.application_users'));

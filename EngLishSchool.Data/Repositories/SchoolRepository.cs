@@ -3,7 +3,7 @@ using EngLishSchool.Model.Models;
 
 namespace EngLishSchool.Data.Repositories
 {
-    public interface ISchoolRepository
+    public interface ISchoolRepository : IRepository<School>
     {
         
     }

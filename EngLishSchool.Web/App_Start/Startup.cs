@@ -4,16 +4,16 @@ using Autofac.Integration.WebApi;
 using EngLishSchool.Data;
 using EngLishSchool.Data.Infrastructure;
 using EngLishSchool.Data.Repositories;
+using EngLishSchool.Model.Models;
 using EngLishSchool.Service;
+using Microsoft.AspNet.Identity;
 using Microsoft.Owin;
+using Microsoft.Owin.Security.DataProtection;
 using Owin;
 using System.Reflection;
 using System.Web;
 using System.Web.Http;
 using System.Web.Mvc;
-using EngLishSchool.Model.Models;
-using Microsoft.AspNet.Identity;
-using Microsoft.Owin.Security.DataProtection;
 
 [assembly: OwinStartup(typeof(EngLishSchool.Web.App_Start.Startup))]
 
@@ -39,7 +39,7 @@ namespace EngLishSchool.Web.App_Start
 
             builder.RegisterType<EnglishSchoolDbContext>().AsSelf().InstancePerRequest();
 
-            //Asp.net Identity
+            ////Asp.net Identity
             builder.RegisterType<ApplicationUserStore>().As<IUserStore<ApplicationUser>>().InstancePerRequest();
             builder.RegisterType<ApplicationUserManager>().AsSelf().InstancePerRequest();
             builder.RegisterType<ApplicationSignInManager>().AsSelf().InstancePerRequest();

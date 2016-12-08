@@ -2,11 +2,8 @@
 using EngLishSchool.Data.Infrastructure;
 using EngLishSchool.Data.Repositories;
 using EngLishSchool.Model.Models;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace EnglishSchool.Service
 {
@@ -16,7 +13,7 @@ namespace EnglishSchool.Service
 
         IEnumerable<ApplicationRole> GetAll(int page, int pageSize, out int totalRow, string filter);
 
-        IEnumerable<ApplicationRole> GetAllrole();
+        IEnumerable<ApplicationRole> GetAll();
 
         ApplicationRole Add(ApplicationRole appRole);
 
@@ -40,32 +37,39 @@ namespace EnglishSchool.Service
 
         public ApplicationRole Add(ApplicationRole appRole)
         {
-            throw new NotImplementedException();
+            if (_appRoleRepository.CheckContains(x => x.Name == appRole.Name))
+                throw new NameDuplicatedException("Tên không được trùng");
+            return _appRoleRepository.Add(appRole);
         }
 
         public void Delete(string id)
         {
-            throw new NotImplementedException();
+            _appRoleRepository.Delete(id);
         }
 
         public IEnumerable<ApplicationRole> GetAll(int page, int pageSize, out int totalRow, string filter)
         {
-            throw new NotImplementedException();
+            var query = _appRoleRepository.GetAll();
+            if (!string.IsNullOrEmpty(filter))
+                query = query.Where(x => x.Name.Contains(filter));
+
+            totalRow = query.Count();
+            return query.OrderBy(x => x.Name).Skip(page * pageSize).Take(pageSize);
         }
 
-        public IEnumerable<ApplicationRole> GetAllrole()
+        public IEnumerable<ApplicationRole> GetAll()
         {
             return _appRoleRepository.GetAll();
         }
 
         public ApplicationRole GetDetail(string id)
         {
-            throw new NotImplementedException();
+            return _appRoleRepository.GetSingleByCondition(x => x.Id == id);
         }
 
         public void Save()
         {
-            throw new NotImplementedException();
+            _unitOfWork.Commit();
         }
     }
 }

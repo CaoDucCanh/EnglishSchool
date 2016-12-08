@@ -235,71 +235,139 @@ C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.UnitTest\obj\Debug\Eng
 C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Microsoft.Web.Infrastructure.dll
 C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\EngLishSchool.UnitTest.dll.config
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\EngLishSchool.UnitTest.dll
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\EngLishSchool.UnitTest.pdb
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\EngLishSchool.Common.dll
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\EngLishSchool.Data.dll
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\EngLishSchool.Model.dll
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\EngLishSchool.Service.dll
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\EngLishSchool.Web.dll
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\EntityFramework.dll
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\EntityFramework.SqlServer.dll
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Core.dll
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\Microsoft.Owin.dll
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\System.Web.Optimization.dll
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\System.Web.Mvc.dll
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\System.Web.Http.dll
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\Microsoft.Owin.Security.dll
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\Owin.dll
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\Autofac.dll
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\System.Web.Http.WebHost.dll
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\Microsoft.Owin.Security.Cookies.dll
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\Autofac.Integration.Mvc.dll
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\Autofac.Integration.WebApi.dll
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\AutoMapper.dll
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\Microsoft.Web.Infrastructure.dll
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\System.Web.Razor.dll
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\System.Web.WebPages.Razor.dll
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\System.Web.WebPages.dll
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\System.Net.Http.Formatting.dll
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\Newtonsoft.Json.dll
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\Microsoft.Owin.Security.OAuth.dll
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\System.Web.WebPages.Deployment.dll
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\EngLishSchool.Common.pdb
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\EngLishSchool.Data.pdb
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\EngLishSchool.Model.pdb
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\EngLishSchool.Service.pdb
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\EngLishSchool.Web.pdb
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\EntityFramework.xml
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\EntityFramework.SqlServer.xml
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Core.xml
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\Microsoft.Owin.xml
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\System.Web.Optimization.xml
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\System.Web.Mvc.xml
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\System.Web.Http.xml
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\Microsoft.Owin.Security.xml
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\Autofac.xml
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\System.Web.Http.WebHost.xml
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\Microsoft.Owin.Security.Cookies.xml
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\Autofac.Integration.Mvc.xml
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\Autofac.Integration.WebApi.xml
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\AutoMapper.xml
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\System.Web.Razor.xml
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\System.Web.WebPages.Razor.xml
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\System.Web.WebPages.xml
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\System.Net.Http.Formatting.xml
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\Newtonsoft.Json.xml
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\Microsoft.Owin.Security.OAuth.xml
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\System.Web.WebPages.Deployment.xml
-E:\english_backup\EngLishSchool.UnitTest\obj\Debug\EngLishSchool.UnitTest.csprojResolveAssemblyReference.cache
-E:\english_backup\EngLishSchool.UnitTest\obj\Debug\EngLishSchool.UnitTest.dll
-E:\english_backup\EngLishSchool.UnitTest\obj\Debug\EngLishSchool.UnitTest.pdb
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
-E:\english_backup\EngLishSchool.UnitTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\obj\Debug\EngLishSchool.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\EngLishSchool.UnitTest.dll.config
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\EngLishSchool.UnitTest.dll
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\EngLishSchool.UnitTest.pdb
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\EngLishSchool.Common.dll
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\EngLishSchool.Data.dll
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\EngLishSchool.Model.dll
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\EngLishSchool.Service.dll
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\EngLishSchool.Web.dll
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\EntityFramework.dll
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Microsoft.Owin.dll
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\System.Web.Optimization.dll
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\System.Web.Mvc.dll
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\System.Web.Http.dll
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Owin.dll
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Autofac.dll
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Autofac.Integration.Mvc.dll
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Autofac.Integration.WebApi.dll
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\AutoMapper.dll
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\System.Web.Razor.dll
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\System.Web.WebPages.dll
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\EngLishSchool.Common.pdb
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\EngLishSchool.Data.pdb
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\EngLishSchool.Model.pdb
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\EngLishSchool.Service.pdb
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\EngLishSchool.Web.pdb
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\EntityFramework.xml
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Microsoft.Owin.xml
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\System.Web.Optimization.xml
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\System.Web.Mvc.xml
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\System.Web.Http.xml
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Autofac.xml
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Autofac.Integration.Mvc.xml
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Autofac.Integration.WebApi.xml
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\AutoMapper.xml
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\System.Web.Razor.xml
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\System.Web.WebPages.xml
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\obj\Debug\EngLishSchool.UnitTest.dll
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.UnitTest\obj\Debug\EngLishSchool.UnitTest.pdb
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\loc\Documents\Visual Studio 2015\eng\EnglishSchool\EngLishSchool.UnitTest\obj\Debug\EngLishSchool.UnitTest.csprojResolveAssemblyReference.cache
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\EngLishSchool.UnitTest.dll.config
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\EngLishSchool.UnitTest.dll
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\EngLishSchool.UnitTest.pdb
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\EngLishSchool.Common.dll
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\EngLishSchool.Data.dll
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\EngLishSchool.Model.dll
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\EngLishSchool.Service.dll
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\EngLishSchool.Web.dll
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\EntityFramework.dll
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\EntityFramework.SqlServer.dll
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Microsoft.Owin.dll
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\System.Web.Optimization.dll
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\System.Web.Mvc.dll
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\System.Web.Http.dll
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Microsoft.Owin.Security.dll
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Owin.dll
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Autofac.dll
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\System.Web.Http.WebHost.dll
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Autofac.Integration.Mvc.dll
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Autofac.Integration.WebApi.dll
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\AutoMapper.dll
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\System.Web.Razor.dll
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\System.Web.WebPages.dll
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\System.Net.Http.Formatting.dll
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Newtonsoft.Json.dll
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\EngLishSchool.Common.pdb
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\EngLishSchool.Data.pdb
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\EngLishSchool.Model.pdb
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\EngLishSchool.Service.pdb
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\EngLishSchool.Web.pdb
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\EntityFramework.xml
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\EntityFramework.SqlServer.xml
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Microsoft.Owin.xml
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\System.Web.Optimization.xml
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\System.Web.Mvc.xml
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\System.Web.Http.xml
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Microsoft.Owin.Security.xml
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Autofac.xml
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\System.Web.Http.WebHost.xml
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Autofac.Integration.Mvc.xml
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Autofac.Integration.WebApi.xml
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\AutoMapper.xml
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\System.Web.Razor.xml
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\System.Web.WebPages.xml
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\System.Net.Http.Formatting.xml
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Newtonsoft.Json.xml
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\obj\Debug\EngLishSchool.UnitTest.csprojResolveAssemblyReference.cache
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\obj\Debug\EngLishSchool.UnitTest.dll
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.UnitTest\obj\Debug\EngLishSchool.UnitTest.pdb

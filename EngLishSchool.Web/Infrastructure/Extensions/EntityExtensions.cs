@@ -29,6 +29,37 @@ namespace EnglishSchool.Web.Infrastructure.Extensions
             appUser.Email = appUserViewModel.Email;
             appUser.UserName = appUserViewModel.UserName;
             appUser.PhoneNumber = appUserViewModel.PhoneNumber;
-        }
+
+            appUser.Address = appUserViewModel.Address;
+
+            appUser.BirthDay = appUserViewModel.BirthDay;
+
+            appUser.Gender = appUserViewModel.Gender;
+
+            appUser.avatar = appUserViewModel.avatar;
+
+            appUser.BankName = appUserViewModel.BankName;
+
+            appUser.BankBrach = appUserViewModel.BankBrach;
+
+            appUser.BankAccount = appUserViewModel.BankAccount;
+
+            appUser.IsBlock = appUserViewModel.IsBlock;
+
+            appUser.TypeUserId = appUserViewModel.TypeUserId;
+
+            appUser.ClassId = appUserViewModel.ClassId;
+
+            appUser.SchoolId = appUserViewModel.SchoolId;
+
+            appUser.CreatedDate = appUserViewModel.CreatedDate;
+
+            appUser.CreateddBy = appUserViewModel.CreateddBy;
+
+            appUser.UpdatedDate = appUserViewModel.UpdatedDate;
+
+            appUser.UpdatedBy = appUserViewModel.UpdatedBy;
+                               
     }
+}
 }

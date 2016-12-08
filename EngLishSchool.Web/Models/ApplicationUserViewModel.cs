@@ -2,7 +2,6 @@
 using Microsoft.AspNet.Identity;
 using System;
 using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Security.Claims;
 using System.Threading.Tasks;
@@ -15,21 +14,14 @@ namespace EngLishSchool.Web.Models
 
         public string Id { set; get; } 
 		
-        [MaxLength(200)]
         public string FullName { set; get; }
 		
-        [MaxLength(200)]
-        [Display]
         public string Email { set; get; }
-
-        [MaxLength(250, ErrorMessage = "Tên không được quá 50 ký tự")]
-        [Required(ErrorMessage = "Phải nhập User Name")]
+		
         public string UserName { set; get; }
 		
         public string PhoneNumber { set; get; }
-        
-        [MaxLength(20, ErrorMessage = "Tối đa 12 ký tự")]
-        [MinLength(6, ErrorMessage = "Tối thiểu 6 ký tự")]
+    
         public string Password { set; get; }
 
         public string Address { set; get; }
@@ -54,7 +46,22 @@ namespace EngLishSchool.Web.Models
 
         public string SchoolId { set; get; }
 
+        public DateTime? CreatedDate { set; get; }
+
+        public string CreateddBy { set; get; }
+
+        public DateTime? UpdatedDate { set; get; }
+
+        public string UpdatedBy { set; get; }
+
         public virtual TypeUser TypeUser { set; get; }
 
+        public virtual Clas Class { set; get; }
+
+        public virtual School School { set; get; }
+		
+        public IEnumerable<ApplicationRoleViewModel> Roles { set; get; }
+		
+        public virtual IEnumerable<Tree> Trees { set; get; }
     }
 }

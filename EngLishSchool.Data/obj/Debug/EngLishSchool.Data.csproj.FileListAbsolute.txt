@@ -80,27 +80,76 @@ C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Data\obj\Debug\EngLish
 C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Data\obj\Debug\EngLishSchool.Data.dll
 C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Data\obj\Debug\EngLishSchool.Data.pdb
 C:\Users\canh9_000\Desktop\es\EnglishSchool\EngLishSchool.Data\obj\Debug\EngLishSchool.Data.Migrations.AddTableError.resources
-E:\english_backup\EngLishSchool.Data\bin\Debug\EngLishSchool.Data.dll.config
-E:\english_backup\EngLishSchool.Data\bin\Debug\EngLishSchool.Data.dll
-E:\english_backup\EngLishSchool.Data\bin\Debug\EngLishSchool.Data.pdb
-E:\english_backup\EngLishSchool.Data\bin\Debug\EngLishSchool.Common.dll
-E:\english_backup\EngLishSchool.Data\bin\Debug\EngLishSchool.Model.dll
-E:\english_backup\EngLishSchool.Data\bin\Debug\EntityFramework.dll
-E:\english_backup\EngLishSchool.Data\bin\Debug\EntityFramework.SqlServer.dll
-E:\english_backup\EngLishSchool.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
-E:\english_backup\EngLishSchool.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
-E:\english_backup\EngLishSchool.Data\bin\Debug\EngLishSchool.Common.pdb
-E:\english_backup\EngLishSchool.Data\bin\Debug\EngLishSchool.Model.pdb
-E:\english_backup\EngLishSchool.Data\bin\Debug\EntityFramework.xml
-E:\english_backup\EngLishSchool.Data\bin\Debug\EntityFramework.SqlServer.xml
-E:\english_backup\EngLishSchool.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
-E:\english_backup\EngLishSchool.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
-E:\english_backup\EngLishSchool.Data\obj\Debug\EngLishSchool.Data.csprojResolveAssemblyReference.cache
-E:\english_backup\EngLishSchool.Data\obj\Debug\EngLishSchool.Data.Migrations.InitialDBMemberShip.resources
-E:\english_backup\EngLishSchool.Data\obj\Debug\EngLishSchool.Data.Migrations.MemberSchool.resources
-E:\english_backup\EngLishSchool.Data\obj\Debug\EngLishSchool.Data.Migrations.Bug.resources
-E:\english_backup\EngLishSchool.Data\obj\Debug\EngLishSchool.Data.Migrations.ChangeNameTableMember.resources
-E:\english_backup\EngLishSchool.Data\obj\Debug\EngLishSchool.Data.Migrations.AddTableError.resources
-E:\english_backup\EngLishSchool.Data\obj\Debug\EngLishSchool.Data.csproj.GenerateResource.Cache
-E:\english_backup\EngLishSchool.Data\obj\Debug\EngLishSchool.Data.dll
-E:\english_backup\EngLishSchool.Data\obj\Debug\EngLishSchool.Data.pdb
+E:\EnglishSchol.edu.vn\EnglishSchool\EngLishSchool.Data\obj\Debug\EngLishSchool.Data.Migrations.AddTableError.resources
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.Data\obj\Debug\EngLishSchool.Data.csprojResolveAssemblyReference.cache
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.Data\obj\Debug\EngLishSchool.Data.Migrations.InitialDBMemberShip.resources
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.Data\obj\Debug\EngLishSchool.Data.Migrations.MemberSchool.resources
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.Data\obj\Debug\EngLishSchool.Data.Migrations.Bug.resources
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.Data\obj\Debug\EngLishSchool.Data.Migrations.ChangeNameTableMember.resources
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.Data\obj\Debug\EngLishSchool.Data.Migrations.AddTableError.resources
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.Data\obj\Debug\EngLishSchool.Data.csproj.GenerateResource.Cache
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.Data\bin\Debug\EngLishSchool.Data.dll.config
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.Data\bin\Debug\EngLishSchool.Data.dll
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.Data\bin\Debug\EngLishSchool.Data.pdb
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.Data\bin\Debug\EngLishSchool.Common.dll
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.Data\bin\Debug\EngLishSchool.Model.dll
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.Data\bin\Debug\EntityFramework.dll
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.Data\bin\Debug\EngLishSchool.Common.pdb
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.Data\bin\Debug\EngLishSchool.Model.pdb
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.Data\bin\Debug\EntityFramework.xml
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.Data\obj\Debug\EngLishSchool.Data.dll
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.Data\obj\Debug\EngLishSchool.Data.pdb
+C:\Users\loc\Documents\Visual Studio 2015\eng\EnglishSchool\EngLishSchool.Data\bin\Debug\EngLishSchool.Data.dll.config
+C:\Users\loc\Documents\Visual Studio 2015\eng\EnglishSchool\EngLishSchool.Data\bin\Debug\EngLishSchool.Data.dll
+C:\Users\loc\Documents\Visual Studio 2015\eng\EnglishSchool\EngLishSchool.Data\bin\Debug\EngLishSchool.Data.pdb
+C:\Users\loc\Documents\Visual Studio 2015\eng\EnglishSchool\EngLishSchool.Data\bin\Debug\EngLishSchool.Common.dll
+C:\Users\loc\Documents\Visual Studio 2015\eng\EnglishSchool\EngLishSchool.Data\bin\Debug\EngLishSchool.Model.dll
+C:\Users\loc\Documents\Visual Studio 2015\eng\EnglishSchool\EngLishSchool.Data\bin\Debug\EntityFramework.dll
+C:\Users\loc\Documents\Visual Studio 2015\eng\EnglishSchool\EngLishSchool.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\loc\Documents\Visual Studio 2015\eng\EnglishSchool\EngLishSchool.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\loc\Documents\Visual Studio 2015\eng\EnglishSchool\EngLishSchool.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\loc\Documents\Visual Studio 2015\eng\EnglishSchool\EngLishSchool.Data\bin\Debug\EngLishSchool.Common.pdb
+C:\Users\loc\Documents\Visual Studio 2015\eng\EnglishSchool\EngLishSchool.Data\bin\Debug\EngLishSchool.Model.pdb
+C:\Users\loc\Documents\Visual Studio 2015\eng\EnglishSchool\EngLishSchool.Data\bin\Debug\EntityFramework.xml
+C:\Users\loc\Documents\Visual Studio 2015\eng\EnglishSchool\EngLishSchool.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\loc\Documents\Visual Studio 2015\eng\EnglishSchool\EngLishSchool.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\loc\Documents\Visual Studio 2015\eng\EnglishSchool\EngLishSchool.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\loc\Documents\Visual Studio 2015\eng\EnglishSchool\EngLishSchool.Data\obj\Debug\EngLishSchool.Data.csprojResolveAssemblyReference.cache
+C:\Users\loc\Documents\Visual Studio 2015\eng\EnglishSchool\EngLishSchool.Data\obj\Debug\EngLishSchool.Data.Migrations.InitialDBMemberShip.resources
+C:\Users\loc\Documents\Visual Studio 2015\eng\EnglishSchool\EngLishSchool.Data\obj\Debug\EngLishSchool.Data.Migrations.MemberSchool.resources
+C:\Users\loc\Documents\Visual Studio 2015\eng\EnglishSchool\EngLishSchool.Data\obj\Debug\EngLishSchool.Data.Migrations.Bug.resources
+C:\Users\loc\Documents\Visual Studio 2015\eng\EnglishSchool\EngLishSchool.Data\obj\Debug\EngLishSchool.Data.Migrations.ChangeNameTableMember.resources
+C:\Users\loc\Documents\Visual Studio 2015\eng\EnglishSchool\EngLishSchool.Data\obj\Debug\EngLishSchool.Data.Migrations.AddTableError.resources
+C:\Users\loc\Documents\Visual Studio 2015\eng\EnglishSchool\EngLishSchool.Data\obj\Debug\EngLishSchool.Data.csproj.GenerateResource.Cache
+C:\Users\loc\Documents\Visual Studio 2015\eng\EnglishSchool\EngLishSchool.Data\obj\Debug\EngLishSchool.Data.dll
+C:\Users\loc\Documents\Visual Studio 2015\eng\EnglishSchool\EngLishSchool.Data\obj\Debug\EngLishSchool.Data.pdb
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.Data\bin\Debug\EngLishSchool.Data.dll.config
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.Data\bin\Debug\EngLishSchool.Data.dll
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.Data\bin\Debug\EngLishSchool.Data.pdb
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.Data\bin\Debug\EngLishSchool.Common.dll
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.Data\bin\Debug\EngLishSchool.Model.dll
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.Data\bin\Debug\EntityFramework.dll
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.Data\bin\Debug\EngLishSchool.Common.pdb
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.Data\bin\Debug\EngLishSchool.Model.pdb
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.Data\bin\Debug\EntityFramework.xml
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.Data\obj\Debug\EngLishSchool.Data.csprojResolveAssemblyReference.cache
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.Data\obj\Debug\EngLishSchool.Data.Migrations.InitialDBMemberShip.resources
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.Data\obj\Debug\EngLishSchool.Data.Migrations.MemberSchool.resources
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.Data\obj\Debug\EngLishSchool.Data.Migrations.Bug.resources
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.Data\obj\Debug\EngLishSchool.Data.Migrations.ChangeNameTableMember.resources
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.Data\obj\Debug\EngLishSchool.Data.Migrations.AddTableError.resources
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.Data\obj\Debug\EngLishSchool.Data.csproj.GenerateResource.Cache
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.Data\obj\Debug\EngLishSchool.Data.dll
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.Data\obj\Debug\EngLishSchool.Data.pdb

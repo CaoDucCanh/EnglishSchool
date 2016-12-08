@@ -13,3 +13,18 @@ C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Common\bin\Debug\EngLishSc
 C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Common\obj\Debug\EngLishSchool.Common.dll
 C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Common\obj\Debug\EngLishSchool.Common.pdb
 C:\Users\loc\Documents\es\EnglishSchool\EngLishSchool.Common\obj\Debug\EngLishSchool.Common.csprojResolveAssemblyReference.cache
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.Common\bin\Debug\EngLishSchool.Common.dll
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.Common\bin\Debug\EngLishSchool.Common.pdb
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.Common\obj\Debug\EngLishSchool.Common.csprojResolveAssemblyReference.cache
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.Common\obj\Debug\EngLishSchool.Common.dll
+C:\Users\loc\Documents\Visual Studio 2015\english\EnglishSchool\EngLishSchool.Common\obj\Debug\EngLishSchool.Common.pdb
+C:\Users\loc\Documents\Visual Studio 2015\eng\EnglishSchool\EngLishSchool.Common\bin\Debug\EngLishSchool.Common.dll
+C:\Users\loc\Documents\Visual Studio 2015\eng\EnglishSchool\EngLishSchool.Common\bin\Debug\EngLishSchool.Common.pdb
+C:\Users\loc\Documents\Visual Studio 2015\eng\EnglishSchool\EngLishSchool.Common\obj\Debug\EngLishSchool.Common.csprojResolveAssemblyReference.cache
+C:\Users\loc\Documents\Visual Studio 2015\eng\EnglishSchool\EngLishSchool.Common\obj\Debug\EngLishSchool.Common.dll
+C:\Users\loc\Documents\Visual Studio 2015\eng\EnglishSchool\EngLishSchool.Common\obj\Debug\EngLishSchool.Common.pdb
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.Common\bin\Debug\EngLishSchool.Common.dll
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.Common\bin\Debug\EngLishSchool.Common.pdb
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.Common\obj\Debug\EngLishSchool.Common.csprojResolveAssemblyReference.cache
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.Common\obj\Debug\EngLishSchool.Common.dll
+E:\Englishschool.edu.vn\EnglishSchool\EngLishSchool.Common\obj\Debug\EngLishSchool.Common.pdb

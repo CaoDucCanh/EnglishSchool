@@ -34,7 +34,6 @@ namespace EngLishSchool.Service
 
         // search student in school
         IEnumerable<ApplicationUser> SearchUserSchool(string keyword, string schoolId, string typeId, int page, int pageSize, string sort, out int totalRow);//Princical
-       
 
         //search student in class
         IEnumerable<ApplicationUser> SearchUserClassPaging(string keyword, string classId, string typeId, int page, int pageSize, string sort, out int totalRow);//Princical, Teacher
@@ -52,6 +51,7 @@ namespace EngLishSchool.Service
         void AddUserListUserStudent();
 
         void Save();
+
     }
     public class ApplicationUserService : IApplicationUserService
     {
