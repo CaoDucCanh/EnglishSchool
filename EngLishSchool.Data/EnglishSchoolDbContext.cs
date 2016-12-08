@@ -19,6 +19,10 @@ namespace EngLishSchool.Data
         public DbSet<School> Schools { set; get; }
         public DbSet<Tree> Trees { set; get; }
         public DbSet<Error> Errors { set; get; }
+        public DbSet<ApplicationUser> ApplicationUsers { set; get; }
+        public DbSet<ApplicationRole> ApplicationRoles { set; get; }
+        public DbSet<ApplicationUserRole> ApplicationUserRoles { set; get; }
+        
 
 
         public static EnglishSchoolDbContext Create()

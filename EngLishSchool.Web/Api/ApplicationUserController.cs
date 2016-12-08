@@ -1,73 +1,42 @@
-﻿using AutoMapper;
-using EnglishSchool.Web.Infrastructure.Core;
-using EnglishSchool.Web.Infrastructure.Extensions;
-using EngLishSchool.Model.Models;
-using EngLishSchool.Web.App_Start;
-using EngLishSchool.Web.Models;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Threading.Tasks;
 using System.Web.Http;
-using EnglishSchool.Web.Infrastructure.Core;
-using EnglishSchool.Service;
 using EnglishSchool.Common.Exceptions;
+using EnglishSchool.Service;
+using EnglishSchool.Web.Infrastructure.Core;
+using EnglishSchool.Web.Infrastructure.Extensions;
+using EngLishSchool.Model.Models;
 using EngLishSchool.Service;
+using EngLishSchool.Web.App_Start;
+using EngLishSchool.Web.Models;
+using Microsoft.AspNet.Identity;
 
-namespace EnglishSchool.Web.Api
+namespace EngLishSchool.Web.Api
 {
-
-    [Authorize]
-    [RoutePrefix("api/applicationUser")]
+    [RoutePrefix("api/applicationuser")]
     public class ApplicationUserController : ApiControllerBase
     {
         private ApplicationUserManager _userManager;
-        private ITypeUserService _typeUserService;
+        private IApplicationUserService _appUserService;
         private IApplicationRoleService _appRoleService;
         public ApplicationUserController(
-            ITypeUserService typeUserService,
+            IApplicationUserService appUserService,
             IApplicationRoleService appRoleService,
             ApplicationUserManager userManager,
             IErrorService errorService)
             : base(errorService)
-
         {
             _appRoleService = appRoleService;
-            _typeUserService = typeUserService;
+            _appUserService = appUserService;
             _userManager = userManager;
-        }
-
-        [Route("getlistpaging")]
-        [HttpGet]
-        [Authorize(Roles = "ViewUser")]
-        public HttpResponseMessage GetListPaging(HttpRequestMessage request, int page, int pageSize, string filter = null)
-        {
-            return CreateHttpResponse(request, () =>
-            {
-                HttpResponseMessage response = null;
-                int totalRow = 0;
-                var model = _userManager.Users;
-                IEnumerable<ApplicationUserViewModel> modelVm = Mapper.Map<IEnumerable<ApplicationUser>, IEnumerable<ApplicationUserViewModel>>(model);
-
-                PaginationSet<ApplicationUserViewModel> pagedSet = new PaginationSet<ApplicationUserViewModel>()
-                {
-                    Page = page,
-                    TotalCount = totalRow,
-                    TotalPages = (int)Math.Ceiling((decimal)totalRow / pageSize),
-                    Items = modelVm
-                };
-
-                response = request.CreateResponse(HttpStatusCode.OK, pagedSet);
-
-                return response;
-            });
         }
 
         [HttpPost]
         [Route("add")]
-        [Authorize(Roles = "AddUser")]
         public async Task<HttpResponseMessage> Create(HttpRequestMessage request, ApplicationUserViewModel applicationUserViewModel)
         {
             if (ModelState.IsValid)
@@ -87,7 +56,9 @@ namespace EnglishSchool.Web.Api
                             await _userManager.RemoveFromRoleAsync(newAppUser.Id, role.Name);
                             await _userManager.AddToRoleAsync(newAppUser.Id, role.Name);
                         }
+
                         return request.CreateResponse(HttpStatusCode.OK, applicationUserViewModel);
+
                     }
                     else
                         return request.CreateErrorResponse(HttpStatusCode.BadRequest, string.Join(",", result.Errors));
@@ -106,6 +77,5 @@ namespace EnglishSchool.Web.Api
                 return request.CreateErrorResponse(HttpStatusCode.BadRequest, ModelState);
             }
         }
-
     }
 }
